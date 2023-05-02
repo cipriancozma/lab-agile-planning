@@ -4,12 +4,6 @@ about: User Story -> Agile Planning
 title: 'Need a service that has a counter'
 labels: ''
 assignees: ''
-name: ''
-about: ''
-title: 'Need a service that has a counter'
-labels: ''
-assignees: ''
-
 ---
 
  **As a** [role]  
@@ -31,3 +25,11 @@ assignees: ''
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
+
+---
+name: User Story
+about: User Story -> Agile Planning
+title: 'Must allow multiple counters'
+labels: ''
+assignees: ''
+---
