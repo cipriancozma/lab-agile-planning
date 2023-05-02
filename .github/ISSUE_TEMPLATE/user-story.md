@@ -1,16 +1,21 @@
 ---
 name: User Story
 about: User Story -> Agile Planning
-title: ''
+title: 'Need a service that has a counter'
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
-   
+  
+ **As a** User  
+ **I need ** a service that has a counter 
+ **So that ** I can keep track of how many times something was done.
+ 
+ 
  ### Details and Assumptions
  * [document what you know]
    
