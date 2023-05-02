@@ -30,6 +30,10 @@ assignees: ''
 |       |                                 | Must allow multiple counters               |
 |       |                                 | Must persist counter across restarts       |                        |                   |
 |       |                                 | Counters can be reset                      |                        |                   |
+|       |                                 | Deploy service to the cloud                |                        |                   |
+|       |                                 | Need the ability to remove a counter       |                        |                   |
+|       |                                 | Need the ability to update a counter       |                        |                   |
+
 
  **As a** Service Provider  
  **I need** to have multiple counters
@@ -38,3 +42,16 @@ assignees: ''
  **As a** System Administrator  
  **I need** the ability to reset the counter
  **So that** I can redo counting from the start.
+ 
+  **As a** Cloud Engineer 
+ **I need** the ability to deploy the service to the cloud
+ **So that** I can have the system up and running with the latest features.
+
+ **As a** System Administrator  
+ **I need** the ability to remove the counter
+ **So that** I can put what number I want.
+ 
+ **As a** System Administrator 
+ **I need** the ability to update a counter
+ **So that** I can put what number I want.
+ 
