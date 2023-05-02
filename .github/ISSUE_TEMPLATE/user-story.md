@@ -25,11 +25,6 @@ assignees: ''
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
-
----
-name: User Story
-about: User Story -> Agile Planning
-title: 'Must allow multiple counters'
-labels: ''
-assignees: ''
----
+| Name  | About                           | Title                                      | Labels                 | Assignees         |
+|-------|---------------------------------|--------------------------------------------|------------------------|-------------------|
+|       |                                 | Must allow multiple counters               |
