@@ -28,3 +28,13 @@ assignees: ''
 | Name  | About                           | Title                                      | Labels                 | Assignees         |
 |-------|---------------------------------|--------------------------------------------|------------------------|-------------------|
 |       |                                 | Must allow multiple counters               |
+|       |                                 | Must persist counter across restarts       |                        |                   |
+|       |                                 | Counters can be reset                      |                        |                   |
+
+ **As a** Service Provider  
+ **I need** to have multiple counters
+ **So that** I can keep track of several counts at once.
+ 
+ **As a** System Administrator  
+ **I need** the ability to reset the counter
+ **So that** I can redo counting from the start.
